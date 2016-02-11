@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">project1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+        <string-array name="toll_arrays">
+        <item>E city Flyover</item>
+        <item>KN-TN Border</item>
+        <item>Krishnagiri toll</item>
+        <item>Dharmapuri toll</item>
+        <item>Omalur toll</item>
+        <item>salem toll ways</item>
+        <item>Vijayamanagalam toll</item>
+        <item>Coimbatore toll</item>
+    </string-array>
+        <string-array name="toll1_arrays">
+        <item>Maduravaayil</item>
+        <item>Chengalpattu</item>
+        <item>Aatur</item>
+        <item>Vikravandi</item>
+        <item>Ulunthurpet</item>
+        <item>Maadur</item>
+        <item>Nathakarai</item>
+        <item>Mettupatti</item>
+        <item>salem toll ways</item>
+        <item>Vijayamanagalam toll</item>
+        <item>Coimbatore toll</item>
+    </string-array>
+        <string-array name="toll2_arrays">
+        <item>Three wheeler</item>
+        <item>Car</item>
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>LCV</item>
+    </string-array>
+         <string-array name="toll3_arrays">
+        <item>Africa</item>
+        <item>Canada</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Russia</item>
+    </string-array>
+    
+    
+</resources>
